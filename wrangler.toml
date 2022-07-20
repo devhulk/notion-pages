@@ -1,0 +1,7 @@
+name = "notion-pages"
+main = "src/index.js"
+compatibility_date = "2022-07-20"
+kv_namespaces = [
+    
+   { binding = "YouAutoDev", id = "5ea641f3f2d84a93b6a3daed7d660a0b",preview_id = "d4c781c919b64733872a06463fa6da62" },
+]
